@@ -1,2 +1,1 @@
-# advicel-JS2020Q3
-Private repository for @advicel
+ссылка на деплой: https://rolling-scopes-school.github.io/advicel-JS2020Q3/calculator/
